@@ -1,5 +1,5 @@
 "use strict";
-const nome = "joao";
+const n = "joao";
 const canal = "CFBcursos";
-console.log(nome);
+console.log(n);
 console.log(canal);
